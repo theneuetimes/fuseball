@@ -19,6 +19,8 @@
 Fuseball is a web based, mobile friendly multiplayer football game created with React, p5.js and Websockets. 
 </p>
 
+> **📌 Archive Notice:** This repository is a public archive of an old version of the Fuseball project. The current game hosted at https://fuseball.io uses different code and is not the same as the code in this repository.
+
 ## Demo
 
 You can play the game at any time at https://fuseball.io
